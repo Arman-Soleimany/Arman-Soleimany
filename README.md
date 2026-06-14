@@ -1,5 +1,5 @@
 # 💫 About Me:
-# 💫 About Me 👨‍💻Young Programmer & Researcher📚Passionate about learning new technologies and expanding my knowledge 💻Front-End Developer focused on clean code and modern web development 🔍Interested in research, problem-solving, and continuous improvement<br><br>🚀 Always eager to take on new challenges and build useful applications
+# 💫 About Me<br><br>👨‍💻 Young Programmer & Researcher<br><br>📚 Passionate about learning new technologies and expanding my knowledge<br><br>💻 Front-End Developer focused on clean code and modern web development<br><br>🔍 Interested in research, problem-solving, and continuous improvement<br><br>🚀 Always eager to take on new challenges and build useful applications
 
 
 ## 🌐 Socials:
